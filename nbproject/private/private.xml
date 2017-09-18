@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/frame/FirmCheckFrm.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/dao/FirmasDAO.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/dao/ChequesDAO.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/dialog/FirmasDlg.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/connect2db/Connector.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/bean/ChequeBean.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/bean/FirmaBean.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/renders/FirmaRender.java</file>
+            <file>file:/Users/osvaldorioz/NetBeansProjects/KDDFirmCheck/src/uca/unidad/uno/kdd/constantes/Constantes.java</file>
+        </group>
+    </open-files>
+</project-private>
